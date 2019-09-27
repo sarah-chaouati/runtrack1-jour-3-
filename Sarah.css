@@ -1,0 +1,83 @@
+
+@font-face{
+    font-family:'Lucida Sans';
+    src: url('Lucida\ Sans.ttf')
+} 
+
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGgZhr-nqWLIKA6ytHdayIsxMSbPCo7ad4CUMk7d_cmFbX_h1cdg");
+    font-family: 'Lucida Sans';
+  }
+ 
+.photo{
+    margin-left : 44%;
+    border-radius:5px 5px solid black;
+    box-shadow: 5px 5px 5px red;
+     
+}
+  .page{
+    width: 780px;
+    margin: auto;
+    font-size: 16px;
+    
+
+}
+
+.info{
+    height: 200px;
+   
+    text-align: center;
+    text-shadow:   3px 5px #eee, 10px 13px coral;
+    border: 20px solid black;
+}
+
+
+.info:hover{
+    background: red;
+}
+
+
+    
+    
+
+.section {
+   
+    margin-bottom: 70px;
+   font-size: 15px;
+   background: -webkit-linear-gradient(rgb(245, 81, 163), #333);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+}
+
+.sec-gauche{
+    float: left;
+
+
+}
+
+.sec-droite{
+    margin-left: 150px;
+    margin-top: 3%;
+    
+
+
+}
+
+
+
+
+
+    
+
+
+
+
+
+    
+    
+
+
+
+    
+
+

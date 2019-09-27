@@ -1,0 +1,33 @@
+body{
+	background-image:url(https://recette.supertoinette.com/152011/b/pancakes-fourres-au-nutella.jpg);
+	background-size: cover;
+}
+h2{
+	color:#7D3C98;
+	font-size:20pt;
+	font-weight:bold;
+	text-align:center;
+}
+h3{
+margin-left:72%;
+text-align:justify;
+}
+
+.nom{
+	border-radius:10px;
+	border:5px solid #7D3C98;
+}
+	
+IMG.displayed {
+    display: block;
+    margin-left: 65%;
+	overflow:hidden;
+    -webkit-border-radius:50px;
+    -moz-border-radius:50px;
+    border-radius:50px;
+	border:5px solid black;
+    width:25%;
+    height:25%;
+}
+
+    

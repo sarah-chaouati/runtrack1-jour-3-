@@ -1,0 +1,86 @@
+
+@font-face{
+    font-family:'IndieFlower-Regular';
+    src: url('IndieFlower-Regular.ttf')
+} 
+
+body {
+    background-image: url("https://i.pinimg.com/originals/57/fb/b7/57fbb7ebfd1817b342675a8ebc96cdd1.jpg");
+    font-family: 'IndieFlower-Regular';
+  }
+ 
+.photo{
+    float: right;
+    box-shadow: 5px 5px 5px rgb(170, 92, 112);
+    
+     
+}
+  .page{
+    width: 780px;
+    margin: auto;
+    font-size: 16px;
+    
+
+}
+
+.info{
+    
+    padding: 50px;
+    text-shadow:   3px 5px rgba(10, 10, 10, 0.185), 10px 13px rgba(255, 127, 80, 0);
+    box-shadow: 5px 5px 5px rgb(170, 92, 112) ;
+    
+}
+
+
+.info:hover{
+    background: rgb(170, 92, 112);
+}
+
+
+    
+    
+.section {
+   
+   
+   margin-bottom: 70px;
+   font-size: 20px;
+   background: -webkit-linear-gradient(rgb(248, 4, 4), rgb(170, 92, 112));
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+}
+
+.sec-gauche{
+    float: left;
+    
+    
+
+
+}
+
+.sec-droite{
+    font-weight: bold
+}
+
+
+    
+
+
+.Photocompetences {
+    box-shadow: 5px 5px 5px rgb(170, 92, 112); 
+}
+
+
+    
+
+
+
+
+
+    
+    
+
+
+
+    
+
+

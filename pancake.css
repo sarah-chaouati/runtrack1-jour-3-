@@ -1,0 +1,22 @@
+body{
+	background-image:url("https://static.cuisineaz.com/400x320/i136356-pancakes-sans-oeufs.jpeg");
+	background-size: cover;
+}
+h2{
+	color:#FDF2E9;
+	text-align:center;
+	font-size:20pt;
+	text-shadow:5px 5px 5px gray;
+}
+h3{
+	border:10px solid #F5CBA7;
+	background-color:#FDF2E9;
+}
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+	width:30%;
+	height:15%;
+	border:10px outset #FDF2E9;
+}
